@@ -3,6 +3,8 @@ import React, { useEffect, useState } from 'react';
 import { Link, useOutletContext } from 'react-router-dom'; // Import useOutletContext
 import { Wallet, PieChart, Target } from 'lucide-react'; // Import icons
 
+// Import the SplineScene component
+import SplineScene from '../components/SplineScene'; 
 
 const Dashboard = () => {
   // Get currentUserEmail from the Outlet context provided by App.jsx
@@ -30,7 +32,14 @@ const Dashboard = () => {
 
   return (
     <div className="p-8 bg-white dark:bg-gray-800 rounded-lg shadow-xl text-center max-w-5xl mx-auto my-8 transition-colors duration-300">
-  
+      
+      {/* Spline Robot Model Section - Placed at the very top */}
+      <div className="w-full h-[300px] mb-8 relative bg-gray-100 dark:bg-gray-700 rounded-lg overflow-hidden flex items-center justify-center
+        bg-gradient-to-br from-blue-50 to-purple-50 dark:from-gray-700 dark:to-gray-900"> {/* ADDED GRADIENT HERE */}
+        {/* IMPORTANT: Use the confirmed Spline URL for your robot model */}
+        <SplineScene splineUrl="https://prod.spline.design/mLaNRJmXNlugHWSU/scene.splinecode" /> 
+      </div>
+      
       <h1 className="text-4xl md:text-5xl font-extrabold text-purple-700 dark:text-purple-400 mb-4 animate-fade-in">
         {getGreeting()}, {userName}!
       </h1>
