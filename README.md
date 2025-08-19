@@ -75,6 +75,6 @@ AWS Amplify Console: Used for continuous deployment and hosting of the frontend 
 Please be aware that this deployed application is for demonstration and portfolio purposes only. The associated AWS backend services are subject to deletion, and therefore, the live site will be decommissioned and may cease to be functional at any time.
 
 
-##  Working 
+##  Video 
 Linkedin Post :
 [Check out my post on Linkedin ](https://www.linkedin.com/posts/rishikesh-pednekar-3184091b6_awscloud-internship-fullstackdevelopment-activity-7350502583226007552-x5iO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJADoQBeyCNvqjBwPaVPERgqjqyWRwWgN4)
