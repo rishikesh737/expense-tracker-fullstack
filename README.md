@@ -77,4 +77,4 @@ Please be aware that this deployed application is for demonstration and portfoli
 
 ##  Working 
 Linkedin Post :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-url)
+[![LinkedIn](https://www.linkedin.com/posts/rishikesh-pednekar-3184091b6_awscloud-internship-fullstackdevelopment-activity-7350502583226007552-x5iO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJADoQBeyCNvqjBwPaVPERgqjqyWRwWgN4)
