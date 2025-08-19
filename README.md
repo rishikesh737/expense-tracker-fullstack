@@ -77,4 +77,4 @@ Please be aware that this deployed application is for demonstration and portfoli
 
 ##  Working 
 Linkedin Post :
-[Check out my post on AWS Cloud and Full-Stack Development](https://www.linkedin.com/posts/rishikesh-pednekar-3184091b6_awscloud-internship-fullstackdevelopment-activity-7350502583226007552-x5iO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJADoQBeyCNvqjBwPaVPERgqjqyWRwWgN4)
+[Check out my post on Linkedin ](https://www.linkedin.com/posts/rishikesh-pednekar-3184091b6_awscloud-internship-fullstackdevelopment-activity-7350502583226007552-x5iO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJADoQBeyCNvqjBwPaVPERgqjqyWRwWgN4)
